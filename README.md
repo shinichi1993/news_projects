@@ -1,2 +1,4 @@
-# news_proj
+# news_project
 ニュースウェブ
+#参考ファイル
+Guilde_Readme.xlsx
